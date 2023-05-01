@@ -2,27 +2,7 @@
   --md-primary-fg-color: rgb(0, 122, 255);
 }
 
-.md-header__title {
-  /* display: none; */
-}
-
-.md-search {
-  margin-left: auto;
-}
-
 .md-header__button.md-logo img {
   height: 35px; /* change this value to the desired height */
   width: auto;
 }
-
-.md-nav__title {
-  display: none;
-}
-
-#__nav_1_label, #__nav_2_label {
-  /* font-size: large; */
-  /* font-weight: 600; */
-  /* color: black; */
-  text-decoration: underline;
-}
-
